@@ -1,0 +1,9 @@
+# Bỏ qua tất cả file môi trường (.env) trong mọi thư mục
+.env
+
+# Bỏ qua tất cả thư mục ảo (venv) trong mọi thư mục
+venv/
+
+# (Khuyên dùng thêm) Bỏ qua cache của Python để tránh rác
+__pycache__/
+*.pyc

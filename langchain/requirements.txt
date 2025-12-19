@@ -1,0 +1,7 @@
+streamlit
+audio-recorder-streamlit
+openai-whisper
+requests
+python-dotenv
+streamlit-chat
+elevenlabs
